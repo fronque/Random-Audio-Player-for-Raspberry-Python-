@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 import os, random, sys, select
 
-
 def rndmp3 ():   
 
   while 1:
